@@ -1,0 +1,1 @@
+{"id"=>323, "level_1"=>"backend", "level_2"=>"侵入判定", "summery"=>"スマホの設定で threashuold を一番小さく(感度高く)設定されたら、Analyzationを実行せずに常に侵入とみなす", "releaseDay"=>1, "実現要否"=>"あり"}

@@ -1,0 +1,1 @@
+{"id"=>1, "code"=>"ParingToSensors センサとのBluetoothペアリング", "flow"=>"ゲートウエイ初期セットアップ", "requirements"=>"12", "デバイス/クラウド"=>"ハード・ファーム", "repository/コンポーネント"=>"gateway", "japanese"=>"センサとのBluetoothペアリング"}

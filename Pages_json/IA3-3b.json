@@ -1,0 +1,1 @@
+{"id"=>"IA3-3b", "model（データモデル名称）"=>"グループ詳細設定（通知方法）", "入力属性とバリデーション、attributesAndValidation"=>"Ft.25:グループ単位での通知方式設定機能（Push、Email、SMS、etc.）", "requirements要件番号"=>"1,2"}
