@@ -1,1 +1,0 @@
-{"id"=>12, "code"=>"WPSを利用したWifiルータへのIP通信環境の確保と通信試験機能", "flow"=>"WIFI設定", "requirements"=>"6,53,107", "デバイス/クラウド"=>"ハード・ファーム", "repository/コンポーネント"=>"gateway", "japanese"=>"WPSを利用したWifiルータへのIP通信環境の確保と通信試験機能"}

@@ -1,1 +1,0 @@
-{"id"=>18, "level_1"=>"業務要件", "level_2"=>"支払管理", "summery"=>"引落日に繰り返し支払いが失敗した場合、支払いできなかったアカウントをマークし、２日毎に再度試みる。４回の試行が失敗したら、アカウントサービスを停止する。\nwhen recursive payment was failed on billing day, marked the account failed payment and try again every 2 days later. If failed in 4 times retry, stop service for the account.", "実現要否"=>"あり"}

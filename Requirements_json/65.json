@@ -1,1 +1,0 @@
-{"id"=>65, "level_1"=>"共通", "level_2"=>"ユーザ認証", "summery"=>"１段階認証の認証方法は、大手のOAuthプロバイダによるOAuthのサードパーティーログインから選択でき、ログイン＋パスワード形式である。\noathentication:authentication methods for one phase auth can be chosen from oauth thirdparty login for major oauth providers. and login+password style."}
